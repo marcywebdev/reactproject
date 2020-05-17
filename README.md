@@ -1,2 +1,2 @@
 # ReactProject
-My 1st react project.
+My 1st React Project.
